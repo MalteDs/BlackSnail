@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"model","l":"ActiveSub"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"model","l":"BlackSnail"},{"p":"model","l":"CategoryFilm"},{"p":"model","l":"ClientType"},{"p":"model","l":"Film"},{"p":"ui","l":"Main"},{"p":"model","l":"NewSubscriber"},{"p":"model","l":"Product"},{"p":"model","l":"Season"},{"p":"model","l":"Serie"}];updateSearchResults();
